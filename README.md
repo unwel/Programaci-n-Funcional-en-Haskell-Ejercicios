@@ -56,8 +56,11 @@ mayores que 0, menores que 0 e iguales a 0.
 Elabore un programa en Haskell para calcular el total de una compra en una gasolinera,
 donde se da descuento a sus clientes con membresía dependiendo de su tipo. Las
 membresías y descuentos son las siguientes:
+
 ➔ A: 10%
+
 ➔ B: 15%
+
 ➔ C: 20%
 
 
