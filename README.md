@@ -1,1 +1,1 @@
-# Programaci-n-Funcional-en-Haskell-Ejercicios
+# Programacion Funcional en Haskell Ejercicios
