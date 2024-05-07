@@ -1,0 +1,5 @@
+linux: abrir terminal y poner 
+
+ghc parImpar.hs && ./parImpar
+
+luego igresar un numero
